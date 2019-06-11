@@ -66,7 +66,7 @@ h6 {
   margin-bottom: 0.5rem;
 }
 
-.category-sport {
+.category-sports {
   background: var(--sports-color);
 }
 .category-ent {
@@ -104,6 +104,7 @@ h6 {
   opacity: 0.9;
 }
 
+/* NAVIGATION */
 #main-nav {
   background: #fff;
   position: sticky;
